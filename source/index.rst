@@ -10,6 +10,7 @@ Welcome to notes's documentation!
    :maxdepth: 1
 
    hello
+   world
    数据结构
 
 Indices and tables
